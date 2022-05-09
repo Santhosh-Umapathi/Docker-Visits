@@ -8,3 +8,5 @@ Basic Express Js Application with Docker basics
 
 - Working Directory
 - Dependencies Caching
+- Docker Compose
+- Multiple Containers
